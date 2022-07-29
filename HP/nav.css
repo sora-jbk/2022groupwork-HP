@@ -8,7 +8,6 @@ body{
     padding:0;
 }
 header{
-    background-image: url(main-image.jpg);
     height: 140px;
     background-size:100%;
     background-position: left ;
@@ -44,8 +43,6 @@ header{
     text-align: center;
     text-decoration: none;
     width:100vw;
-    height: auto;
-    margin-top: 1rem;
     font-family: 'Hachi Maru Pop', cursive;
 }
 .main-logo a{
@@ -53,7 +50,8 @@ header{
     text-decoration: none;
 }
 .main-logo img{
-    width: 20vw;
+    height: 7rem;
+    width:auto;
     margin:0 auto;
 }
 .main-logo h1{
