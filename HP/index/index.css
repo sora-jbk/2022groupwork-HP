@@ -102,14 +102,19 @@ li .main-nav:hover .normal{
     background-color: black;
     margin-top: 1rem;
 }
+
 .bx-viewport{
     max-width: 40vw;
     height: auto;
 }
-
-img{
-    width: 200px;
+.slide-wrapper{
+    width: 50VW;
 }
+.side-srider {
+    width: 50vw;
+    text-align:center;
+}
+
 
 .main-art{
     display: flex;

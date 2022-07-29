@@ -40,6 +40,8 @@ header{
 
 
 .main-logo{
+    background-image:url(main-image.jpg);
+    background-size:auto 100%;
     text-align: center;
     text-decoration: none;
     width:100vw;
@@ -50,7 +52,7 @@ header{
     text-decoration: none;
 }
 .main-logo img{
-    height: 7rem;
+    height: 100%;
     width:auto;
     margin:0 auto;
 }
