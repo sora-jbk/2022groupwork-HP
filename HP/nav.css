@@ -1,6 +1,17 @@
 @charset "utf-8";
 html{
     margin:0;
+    padding:0;
+}
+body{
+    margin:0;
+    padding:0;
+}
+header{
+    background-image: url(main-image.jpg);
+    height: 140px;
+    background-size:100%;
+    background-position: left ;
 }
 .main-nav ul{
     display:flex;
@@ -15,16 +26,10 @@ html{
     background-repeat:repeat-x;
     height:3rem;
 }
-.wlcm-cafe{
-    padding-top: 3.25rem;
-    text-align: center;
-}
 .main-nav li{
     padding: 0.5rem 4rem;
     margin:auto;
 }
-
-
 .main-nav a:hover{
     color: rgb(255, 255, 255);
 }
@@ -33,24 +38,35 @@ html{
 }
 
 
-header{
-    background-image: url(main-image.jpg);
-    height: 140px;
-    background-size:100%;
-    background-position: left ;
-}
+
+
 .main-logo{
     text-align: center;
     text-decoration: none;
-
+    width:100vw;
+    height: auto;
+    margin-top: 1rem;
+    font-family: 'Hachi Maru Pop', cursive;
 }
 .main-logo a{
     color: rgb(7, 9, 77);
     text-decoration: none;
 }
-body{
-    margin:0;
-    padding:0;
+.main-logo img{
+    width: 20vw;
+    margin:0 auto;
+}
+.main-logo h1{
+    margin-top:0;
+    padding-top:0;
+}
+.main-nav{
+    text-decoration: none;
+    text-align: center;
+}
+.main-nav-content{
+    text-decoration: none;
+    text-align: center;
 }
 
 
@@ -72,35 +88,11 @@ li {
     width: 20rem;
     font-family: 'Hachi Maru Pop', cursive;
 }
-.main-logo{
-    font-family: 'Hachi Maru Pop', cursive;
-}
 
 
-.main-nav-content{
-    text-decoration: none;
+.wlcm-cafe{
+    padding-top: 3.25rem;
     text-align: center;
-}
-.main-nav{
-    text-decoration: none;
-    text-align: center;
-}
-.main-logo{
-    width:100vw;
-    height: auto;
-    margin-top: 1rem;
-}
-.main-logo img{
-    width: 20vw;
-    margin:0 auto;
-}
-html{
-    margin:0;
-    padding:0;
-}
-.main-logo h1{
-    margin-top:0;
-    padding-top:0;
 }
 
 * {
