@@ -8,4 +8,4 @@ function slide_time() {
     }
     document.getElementById("slide-content").src = img_src[num];
 }
-setInterval(slide_time,1500);
+setInterval(slide_time,2500);
