@@ -6,6 +6,7 @@
     <title>SummerCafe|index</title>
     <link rel="stylesheet" href="index.css">
     <link rel="stylesheet" href="https://unpkg.com/ress/dist/ress.min.css">
+    <script type="text/javascript" src="index.js"></script>
     <!--↓google webfont-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -59,11 +60,16 @@
     <div class="main-art">
             
         <div class="slide-wrapper">
-            <div class="slider">
+            <!--
+                <div class="slider">
                 <img class="slide-image" src="slide-img/slide-img01.jpg" width="500" height="300" alt="">
                 <img class="slide-image" src="slide-img/slide-img02.JPG" width="500" height="300" alt="">
                 <img class="slide-image" src="slide-img/slide-img03.jpeg" width="500" height="300" alt="">
                 <img class="slide-image" src="slide-img/slide-img04.jpeg" width="500" height="300" alt="">
+            </div>
+                -->
+            <div diy-slide>
+                <img id="slide-content" src="slide-img01.jpg">
             </div>
         </div>
         <div class="side-slider">

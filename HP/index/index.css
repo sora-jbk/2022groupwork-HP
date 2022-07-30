@@ -115,6 +115,10 @@ li .main-nav:hover .normal{
     text-align:center;
 }
 
+#slide-content{
+    width:40vw;
+    height:auto;
+}
 
 .main-art{
     display: flex;
