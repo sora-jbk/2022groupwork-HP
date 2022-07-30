@@ -119,6 +119,7 @@ li .main-nav:hover .normal{
     width:40vw;
     height:30vw;
     object-fit:cover;
+    margin-left:10vw;
 }
 .diy-slide{
     width:50vw;
