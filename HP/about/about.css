@@ -12,7 +12,6 @@ html{
     padding-top: 0;
     padding-bottom: 0;
     text-transform: uppercase;
-    height:3rem;
 }
 .main-nav li{
     padding: 1% 6%;
@@ -47,19 +46,58 @@ body{
 
 
 .abouttitle{
-    padding-top: 3.25rem;
+    padding-top: 5rem;
     font-family: 'Kaisei Opti', serif;
-    text-align: center;
+    font-size:5rem;
+	text-align:center;
+	line-height:0.95em;
+	font-weight:bold;
+	color: #e3821a;
+	text-shadow: 0.03em 0.03em 0.03em rgba(0,0,0,1);
+
+
+
 }
 
 .pizza{
     width:auto;
     height: 500px;
+    border-image-source: repeating-linear-gradient(45deg, #00ff40, #01ff16 3px, rgba(0 0 0 / 0) 0, rgba(0 0 0 / 0) 6px);
+	border-image-slice: 20;
+	border-image-repeat: round;
+	border-style: solid;
+	border-width: 10px;
+    padding: 0 !important;
+    border-radius: 20px;
+    margin:0 5vw 0 5vw;
 }
+
 .cream  {
     width:auto;
     height:500px;
+    padding: 0 !important;
+    border-radius: 20px;
+      border-image-source: repeating-linear-gradient(45deg, #ff7f00, #ff7f00 3px, rgba(0 0 0 / 0) 0, rgba(0 0 0 / 0) 6px);
+	border-image-slice: 20;
+	border-image-repeat: round;
+	border-style: solid;
+	border-width: 10px;
+   
+   
+
+
+
+
+
 }
+
+.jpeg{
+    text-align: center;
+    padding-top: 2rem;
+    width: 100vw;
+}
+
+
 
 .cream {
     text-align: right;
@@ -73,6 +111,9 @@ p {
     font-family: 'M PLUS 2', sans-serif;
     font-family: 'Mochiy Pop P One', sans-serif;
     font-family: 'Yusei Magic', sans-serif;
+    font-size: 1.25rem;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
 }
 
 th {
@@ -137,7 +178,25 @@ table{
       color:#52c2d0;
   }
 
-  
+h2{
+    text-align: center;
+    font-size: 2.5rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+
+.line {
+    height: 2rem;
+    width: 100vw;
+    background-image: url(line.png);
+    background-repeat: repeat-x;
+    background-size:auto 2rem;
+}
+.text{
+    margin: 0 auto;
+    text-align: center;
+    width: 80vw;
+}
   
   
   
