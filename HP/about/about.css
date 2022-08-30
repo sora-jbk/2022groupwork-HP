@@ -52,9 +52,7 @@ body{
 	text-align:center;
 	line-height:0.95em;
 	font-weight:bold;
-	color: #e3821a;
-	text-shadow: 0.03em 0.03em 0.03em rgba(0,0,0,1);
-
+	color:#ffa500;
 
 
 }
@@ -62,26 +60,11 @@ body{
 .pizza{
     width:auto;
     height: 500px;
-    border-image-source: repeating-linear-gradient(45deg, #00ff40, #01ff16 3px, rgba(0 0 0 / 0) 0, rgba(0 0 0 / 0) 6px);
-	border-image-slice: 20;
-	border-image-repeat: round;
-	border-style: solid;
-	border-width: 10px;
-    padding: 0 !important;
-    border-radius: 20px;
-    margin:0 5vw 0 5vw;
 }
 
 .cream  {
     width:auto;
     height:500px;
-    padding: 0 !important;
-    border-radius: 20px;
-      border-image-source: repeating-linear-gradient(45deg, #ff7f00, #ff7f00 3px, rgba(0 0 0 / 0) 0, rgba(0 0 0 / 0) 6px);
-	border-image-slice: 20;
-	border-image-repeat: round;
-	border-style: solid;
-	border-width: 10px;
    
    
 
