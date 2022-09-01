@@ -34,8 +34,11 @@ header{
 }
 .main-nav a{
     color: #ffffff;
+    width:25vw;
 }
-
+.main-nav span{
+    width:25vw;
+}
 
 
 .main-logo h1{
