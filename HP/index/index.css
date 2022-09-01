@@ -12,34 +12,13 @@ header{
     background-size:100%;
     background-position: left ;
 }
-.main-nav ul{
-    display:flex;
-	list-style: none;
-	font-size:1.5rem;
-    text-decoration: none;
-	margin-top: 0rem;
-    background-color: rgb(175, 163, 152);
-    padding-top: 0;
-    padding-bottom: 0;
-    background-image: url(../cloth.jpg);
-    background-repeat:repeat-x;
-}
+
 .wlcm-cafe{
     padding-top: 3.25rem;
     text-align: center;
 }
 
 
-.main-nav{
-    color: #ffffff;
-}
-.main-nav li{
-    padding: 0.5rem 4rem;
-    margin:auto;
-}
-.main-nav a:hover{
-    color: #ffffff;
-}
 
 
 .main-logo{
@@ -52,31 +31,11 @@ header{
     text-decoration: none;
 }
 
-
-.main-nav{
-    text-decoration: none;
-    text-align: center;
-}
-.main-nav-content{
-    text-decoration: none;
-    text-align: center;
-}
 li {
     width: 20rem;
     font-family: 'Hachi Maru Pop', cursive;
 }
-li .main-nav .hover{
-    display: none;
-}
-li .main-nav .normal{
-    text-decoration: none;
-}
-li .main-nav:hover .hover{
-    display: inline;
-}
-li .main-nav:hover .normal{
-    display: none;
-}
+
 
 .main-logo{
     width:100vw;
