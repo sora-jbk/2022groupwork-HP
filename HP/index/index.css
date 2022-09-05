@@ -73,11 +73,13 @@ li {
 }
 
 #slide-content{
-    height:auto;
-    width:40vw;
-    height:30vw;
+
     object-fit:cover;
-    margin-left:10vw;
+}
+#slide-content{
+    height:auto;
+    width:50vw;
+
 }
 .diy-slide{
     width:50vw;
@@ -87,4 +89,9 @@ li {
     display: flex;
     font-family: 'Kaisei Opti', serif;
     width:100vw;
+}
+
+footer{
+    background-color: #444444;
+    height:10vh;
 }
