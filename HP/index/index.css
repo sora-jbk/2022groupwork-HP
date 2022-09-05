@@ -54,32 +54,21 @@ li {
     height: auto;
 }
 
-
-.bx-wrapper{
-    background-color: black;
-    margin-top: 1rem;
-}
-
-.bx-viewport{
-    max-width: 40vw;
-    height: auto;
-}
 .slide-wrapper{
     width: 50VW;
+    text-align: center;
 }
-.side-srider {
+.side-slider {
     width: 50vw;
     text-align:center;
 }
 
 #slide-content{
-
+    width :48vw;
+    height :36vw;
+    object-fit: cover;
     object-fit:cover;
-}
-#slide-content{
-    height:auto;
-    width:50vw;
-
+    border-radius: 1rem;
 }
 .diy-slide{
     width:50vw;
