@@ -24,6 +24,9 @@ header{
     background-image: url(cloth.jpg);
     background-repeat:repeat-x;
     height:3rem;
+    border-bottom: dashed;
+    border-color:#219f9f ;
+    border-width: 0.2rem;
 }
 .main-nav li{
     padding: 0.5rem 4rem;
@@ -97,7 +100,3 @@ li {
     text-align: center;
 }
 
-* {
-    margin: 0px;
-    padding: 0px;
-}

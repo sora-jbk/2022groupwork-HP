@@ -54,30 +54,23 @@ li {
     height: auto;
 }
 
-
-.bx-wrapper{
-    background-color: black;
-    margin-top: 1rem;
-}
-
-.bx-viewport{
-    max-width: 40vw;
-    height: auto;
-}
 .slide-wrapper{
     width: 50VW;
+    text-align: center;
 }
-.side-srider {
+.side-slider {
     width: 50vw;
     text-align:center;
 }
 
 #slide-content{
-    height:auto;
-    width:40vw;
-    height:30vw;
+    width :48vw;
+    height :36vw;
+    object-fit: cover;
     object-fit:cover;
-    margin-left:10vw;
+    border:solid;
+    border-width: 0.3rem;
+    border-radius:1rem ;
 }
 .diy-slide{
     width:50vw;
@@ -86,5 +79,10 @@ li {
 .main-art{
     display: flex;
     font-family: 'Kaisei Opti', serif;
+    width:100vw;
 }
-/*test*/
+
+footer{
+    background-color: #444444;
+    height:10vh;
+}
