@@ -1,45 +1,28 @@
-/*---‹¤’Ê•”•ª---*/
 @charset "utf-8";
 html{
     margin:0;
 }
-.main-nav ul{
-    display:flex;
-	list-style: none;
-	font-size:1.5rem;
-    text-decoration: none;
-	margin-top: 0rem;
-    background-color: rgb(175, 163, 152);
-    padding-top: 0;
-    padding-bottom: 0;
-    background-image: url(../cloth.jpg);
-    background-repeat:repeat-x;
+
+body{
+    background-color: rgb(222, 231, 235);
+    margin:0;
 }
+header{
+    background-image: url(../main-image.jpg);
+    background-size:100%;
+    background-position: left ;
+}
+
 .wlcm-cafe{
     padding-top: 3.25rem;
     text-align: center;
 }
-.main-nav li{
-    padding: 0.5rem 4rem;
-    margin:auto;
-}
 
 
-.main-nav a:hover{
-    color: rgb(255, 255, 255);
-}
-.main-nav{
-    color: #ffffff;
-}
 
 
-header{
-    background-image: url(../main-image.jpg);
-    height: 160px;
-    background-size:100%;
-    background-position: left ;
-}
 .main-logo{
+    font-family: 'Hachi Maru Pop', cursive;
     text-align: center;
     text-decoration: none;
 }
@@ -47,70 +30,12 @@ header{
     color: rgb(7, 9, 77);
     text-decoration: none;
 }
-body{
-    margin:0;
-}
 
-
-li .main-nav .hover{
-    display: none;
-}
-li .main-nav:hover .hover{
-    display: inline;
-}
-li .main-nav:hover .normal{
-    display: none;
-}
-
-
-li .main-nav .normal{
-    text-decoration: none;
-}
 li {
     width: 20rem;
     font-family: 'Hachi Maru Pop', cursive;
 }
-.main-logo{
-    font-family: 'Hachi Maru Pop', cursive;
-}
 
-
-.main-nav-content{
-    text-decoration: none;
-    text-align: center;
-}
-.main-nav{
-    text-decoration: none;
-    text-align: center;
-}
-
-
-/*---“ÆŽ©•”•ª---*/
-
-
-.pizza-image{
-    width: 500px;
-    height: auto;
-}
-
-.main-art{
-    display: flex;
-    font-family: 'Kaisei Opti', serif;
-}
-body{
-    background-color: rgb(222, 231, 235);
-}
-.bx-viewport{
-    max-width: 40vw;
-    height: auto;
-}
-.bx-wrapper{
-    background-color: black;
-    margin-top: 1rem;
-}
-img{
-    width: 200px;
-}
 
 .main-logo{
     width:100vw;
@@ -119,6 +44,45 @@ img{
 }
 .main-logo img{
     text-align: center;
-    width:30vw;
+    width:20vw;
     height: auto;
+}
+
+
+.pizza-image{
+    width: 500px;
+    height: auto;
+}
+
+.slide-wrapper{
+    width: 50VW;
+    text-align: center;
+}
+.side-slider {
+    width: 50vw;
+    text-align:center;
+}
+
+#slide-content{
+    width :48vw;
+    height :36vw;
+    object-fit: cover;
+    object-fit:cover;
+    border:solid;
+    border-width: 0.3rem;
+    border-radius:1rem ;
+}
+.diy-slide{
+    width:50vw;
+}
+
+.main-art{
+    display: flex;
+    font-family: 'Kaisei Opti', serif;
+    width:100vw;
+}
+
+footer{
+    background-color: #444444;
+    height:10vh;
 }

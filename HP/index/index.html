@@ -1,11 +1,14 @@
 ﻿<!DOCTYPE html>
 <html lang="ja">
+    <!--test-->
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="SummerCafe|index">
     <title>SummerCafe|index</title>
     <link rel="stylesheet" href="index.css">
     <link rel="stylesheet" href="https://unpkg.com/ress/dist/ress.min.css">
+    <link rel="stylesheet" href="../nav.css">
+    <script type="text/javascript" src="index.js"></script>
     <!--↓google webfont-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -17,20 +20,11 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
 
-<script type="text/javascript">
-        $(document).ready(function(){
-            $('.slider').bxSlider({
-                auto: true,
-                pause: 5000,
-            });
-        });
-</script>
+
 
 
 </head>
 <body>
-
-
     <header>
         <h1 class="main-logo"><a href="../index/index.html"><img class="main-logo" src="../summer.png"></a></h1>
         <nav>
@@ -60,16 +54,15 @@
 
     <div class="main-art">
             
-    <div class="slider">
-    <img src="slide-img/slide-img01.jpg" width="500" height="300" alt="">
-    <img src="slide-img/slide-img02.JPG" width="500" height="300" alt="">
-    <img src="slide-img/slide-img03.jpeg" width="500" height="300" alt="">
-    <img src="slide-img/slide-img04.jpeg" width="500" height="300" alt="">
-    </div>
+        <div class="slide-wrapper">
+            <div class="diy-slide">
+                <img id="slide-content" src="slide-img/slide-img01.jpg">
+            </div>
+        </div>
         <div class="side-slider">
-        <h1 class="wlcm-cafe">-Summer Cafe へようこそ-</h1>
-        <h3 class="wlcm-cafe">潮風のあたるテラスで心地よいひと時を</h3>
-        <p></p>
+            <h1 class="wlcm-cafe">-Summer Cafe へようこそ-</h1>
+            <h3 class="wlcm-cafe">潮風のあたるテラスで心地よいひと時を</h3>
+            <p></p>
         </div>
     </div>
     
