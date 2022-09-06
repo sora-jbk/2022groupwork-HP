@@ -1,14 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-<<<<<<< HEAD
     "\\about"
   ],
+  "SelectedNode": "\\about\\about.css",
   "SelectedNode": "\\about\\about.html",
-=======
     "\\menu"
   ],
-  "SelectedNode": "\\menu\\menu.html",
->>>>>>> 7f980507d801b999ff1c503ecc6e3e1280d1b345
   "PreviewInSolutionExplorer": false
 }
