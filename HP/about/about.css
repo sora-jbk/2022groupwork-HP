@@ -12,7 +12,6 @@ html{
     padding-top: 0;
     padding-bottom: 0;
     text-transform: uppercase;
-    height:3rem;
 }
 .main-nav li{
     padding: 1% 6%;
@@ -47,19 +46,49 @@ body{
 
 
 .abouttitle{
-    padding-top: 3.25rem;
+    padding-top: 5rem;
     font-family: 'Kaisei Opti', serif;
-    text-align: center;
+    font-size:5rem;
+	text-align:center;
+	line-height:0.95em;
+	font-weight:bold;
+	color:#ffa500;
+
+
 }
 
 .pizza{
     width:auto;
     height: 500px;
+    border: solid;
+    border-width:0.3rem ;
+    border-radius: 1rem;
+    border-color: black;
 }
+
 .cream  {
     width:auto;
     height:500px;
+    border: solid;
+    border-width:0.3rem ;
+    border-radius: 1rem;
+    border-color: black;
+   
+   
+
+
+
+
+
 }
+
+.jpeg{
+    text-align: center;
+    padding-top: 2rem;
+    width: 100vw;
+}
+
+
 
 .cream {
     text-align: right;
@@ -73,6 +102,9 @@ p {
     font-family: 'M PLUS 2', sans-serif;
     font-family: 'Mochiy Pop P One', sans-serif;
     font-family: 'Yusei Magic', sans-serif;
+    font-size: 1.25rem;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
 }
 
 th {
@@ -137,7 +169,25 @@ table{
       color:#52c2d0;
   }
 
-  
+h2{
+    text-align: center;
+    font-size: 2.5rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+
+.line {
+    height: 2rem;
+    width: 100vw;
+    background-image: url(line.png);
+    background-repeat: repeat-x;
+    background-size:auto 2rem;
+}
+.text{
+    margin: 0 auto;
+    text-align: center;
+    width: 80vw;
+}
   
   
   
