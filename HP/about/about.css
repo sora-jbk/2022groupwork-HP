@@ -60,18 +60,21 @@ body{
 .pizza{
     width:auto;
     height: 500px;
+    border: solid;
+    border-width:0.3rem ;
+    border-radius: 1rem;
+    border-color: black;
 }
 
 .cream  {
     width:auto;
     height:500px;
+    border: solid;
+    border-width:0.3rem ;
+    border-radius: 1rem;
+    border-color: black;
    
    
-
-
-
-
-
 }
 
 .jpeg{
