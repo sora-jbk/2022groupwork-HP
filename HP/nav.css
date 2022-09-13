@@ -8,9 +8,11 @@ body{
     padding:0;
 }
 header{
-    height: 140px;
-    background-size:100%;
-    background-position: left ;
+    background-image: url(../HP/main-image.jpg);
+}
+.main-logo{
+    text-align: center;
+    text-decoration: none;
 }
 .main-nav ul{
     display:flex;
