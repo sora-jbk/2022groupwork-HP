@@ -111,10 +111,58 @@ img{
 }
 
 .title1{
-
-    padding-top: 3rem;
-    font-size:3rem;
-	text-align:center;
-
+    border-top : solid 3px #000000;
+    border-right: solid 3px #000000;
+    border-bottom: solid 3px #000000;
+    border-left: solid 3px #000000;
+}
+.boder{
+   margin: 4vw 20vw 1vw;
+    font-size:1.75rem;
+    text-align:center;
 }
 
+
+.title2{
+
+    padding-top: 3rem;
+    font-size:2rem;
+	text-align:center;
+}
+
+.title3{
+    padding-top: 3rem;
+    font-size:2rem;
+	text-align:center;
+}
+
+.title4{
+
+    padding-top: 3rem;
+    font-size:2rem;
+	text-align:center;
+}
+
+.subtitle{
+    text-align:center;
+    font-size:1.25rem;
+}
+
+.subtitle2{
+    text-align:center;
+    font-size:1.25rem;
+}
+
+.subtitle3{
+    text-align:center;
+    font-size:1.25rem;
+}
+
+.subtitle4{
+    text-align:center;
+    font-size:1.25rem;
+}
+.syohin{
+    text-align:center;
+    font-size:1.25rem;
+}
