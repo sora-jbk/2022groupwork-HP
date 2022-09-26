@@ -110,59 +110,104 @@ img{
     width: 200px;
 }
 
-.title1{
-    border-top : solid 3px #000000;
-    border-right: solid 3px #000000;
-    border-bottom: solid 3px #000000;
-    border-left: solid 3px #000000;
-}
+
+
+
 .boder{
-   margin: 4vw 20vw 1vw;
-    font-size:1.75rem;
+
+
+
+    padding-top: 2vw;
+    font-size:1.5rem;
     text-align:center;
+    margin: 2em auto;
+    padding: 1em;
+    width: 80%; /* ボックス幅 */
+    background-color: #94dada; /* ボックス背景色 */
+    color: rgb(0, 0, 0); /* 文章色 */
+    box-shadow: 0 0 5px 1px #c0c0c0; /* 影 */
+    border-radius: 10px; /* 角の丸み */
+
+
+
+
+   
 }
 
 
-.title2{
 
-    padding-top: 3rem;
-    font-size:2rem;
-	text-align:center;
+.boder2{
+
+    padding-top: 2vw;
+    font-size:1.5rem;
+    text-align:center;
+    margin: 2em auto;
+    padding: 1em;
+    width: 80%; /* ボックス幅 */
+    background-color: #94dada; /* ボックス背景色 */
+    color: rgb(0, 0, 0); /* 文章色 */
+    box-shadow: 0 0 5px 1px #c0c0c0; /* 影 */
+    border-radius: 10px; /* 角の丸み */
 }
 
-.title3{
-    padding-top: 3rem;
-    font-size:2rem;
-	text-align:center;
-}
+.boder3{
 
-.title4{
+    padding-top: 2vw;
+    font-size:1.5rem;
+    text-align:center;
+    margin: 2em auto;
+    padding: 1em;
+    width: 80%; /* ボックス幅 */
+    background-color: #94dada; /* ボックス背景色 */
+    color: rgb(0, 0, 0); /* 文章色 */
+    box-shadow: 0 0 5px 1px #c0c0c0; /* 影 */
+    border-radius: 10px; /* 角の丸み */}
 
-    padding-top: 3rem;
-    font-size:2rem;
-	text-align:center;
+
+
+.boder4{
+
+    padding-top: 2vw;
+    font-size:1.5rem;
+    text-align:center;
+    margin: 2em auto;
+    padding: 1em;
+    width: 80%; /* ボックス幅 */
+    background-color: #94dada; /* ボックス背景色 */
+    color: rgb(0, 0, 0); /* 文章色 */
+    box-shadow: 0 0 5px 1px #c0c0c0; /* 影 */
+    border-radius: 10px; /* 角の丸み */
 }
 
 .subtitle{
     text-align:center;
-    font-size:1.25rem;
+    font-size:1.5rem;
 }
 
 .subtitle2{
     text-align:center;
-    font-size:1.25rem;
+    font-size:1.5rem;
 }
 
 .subtitle3{
     text-align:center;
-    font-size:1.25rem;
+    font-size:1.5rem;
 }
 
 .subtitle4{
     text-align:center;
-    font-size:1.25rem;
+    font-size:1.5rem;
 }
 .syohin{
     text-align:center;
-    font-size:1.25rem;
+    font-size:1.5rem;
+}
+
+
+.button{
+    text-decoration: none;
+    color: #c71585;
+}
+.button:hover {
+    color:#001efd;
 }
