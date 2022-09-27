@@ -110,3 +110,131 @@ img{
     width: 200px;
 }
 
+
+
+
+.boder{
+
+
+
+   /* padding-top: 2vw;*/
+    font-size:1.5rem;
+    text-align:center;
+    margin: 2em auto;
+    padding: 1em;
+    width: 50%; /* ボックス幅 */
+    background-color: #94dada; /* ボックス背景色 */
+    color: rgb(0, 0, 0); /* 文章色 */
+    box-shadow: 0 0 5px 1px #c0c0c0; /* 影 */
+    border-radius: 10px; /* 角の丸み */
+
+
+
+
+   
+}
+
+
+
+.boder2{
+
+    padding-top: 2vw;
+    font-size:1.5rem;
+    text-align:center;
+    margin: 2em auto;
+    padding: 1em;
+    width: 50%; /* ボックス幅 */
+    background-color: #94dada; /* ボックス背景色 */
+    color: rgb(0, 0, 0); /* 文章色 */
+    box-shadow: 0 0 5px 1px #c0c0c0; /* 影 */
+    border-radius: 10px; /* 角の丸み */
+}
+
+.boder3{
+
+    padding-top: 2vw;
+    font-size:1.5rem;
+    text-align:center;
+    margin: 2em auto;
+    padding: 1em;
+    width: 50%; /* ボックス幅 */
+    background-color: #94dada; /* ボックス背景色 */
+    color: rgb(0, 0, 0); /* 文章色 */
+    box-shadow: 0 0 5px 1px #c0c0c0; /* 影 */
+    border-radius: 10px; /* 角の丸み */
+}
+
+
+
+.boder4{
+
+    padding-top: 2vw;
+    font-size:1.5rem;
+    text-align:center;
+    margin: 2em auto;
+    padding: 1em;
+    width: 50%; /* ボックス幅 */
+    background-color: #94dada; /* ボックス背景色 */
+    color: rgb(0, 0, 0); /* 文章色 */
+    box-shadow: 0 0 5px 1px #c0c0c0; /* 影 */
+    border-radius: 10px; /* 角の丸み */
+}
+
+.subtitle{
+    text-align:center;
+    font-size:1.5rem;
+}
+
+.subtitle2{
+    text-align:center;
+    font-size:1.5rem;
+}
+
+.subtitle3{
+    text-align:center;
+    font-size:1.5rem;
+}
+
+.subtitle4{
+    text-align:center;
+    font-size:1.5rem;
+}
+.syohin{
+    text-align:center;
+    font-size:1.5rem;
+}
+
+
+.button{
+    text-decoration: none;
+    color: #c71585;
+}
+.button:hover {
+    color:#001efd;
+}
+
+.mozi{
+    font-weight:40%;
+    color: #bd1818;
+}
+
+.mozi2{
+    font-weight: 40%;
+    color: #bd1818;
+}
+
+
+.mozi3{
+    font-weight: 40%;
+    color: rgb(223, 186, 20);
+}
+
+.mozi4{
+    font-weight: 40%;
+    color: rgb(44, 130, 43);
+}
+
+.mozi5{
+    font-weight: 40%;
+    color: rgb(229, 22, 22);
+}
