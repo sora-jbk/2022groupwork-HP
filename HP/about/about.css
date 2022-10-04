@@ -127,7 +127,11 @@ h2{
     text-align: center;
     width: 80vw;
 }
-  
+
+footer{
+    background-color: #444444;
+    height:10vh;
+}
   
   
   

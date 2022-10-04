@@ -34,3 +34,8 @@ body{
 .sex{
     font-size: 2rem;
 }
+
+footer{
+    background-color: #444444;
+    height:10vh;
+}
