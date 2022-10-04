@@ -238,3 +238,8 @@ img{
     font-weight: 40%;
     color: rgb(229, 22, 22);
 }
+
+footer{
+    background-color: #444444;
+    height:10vh;
+}
