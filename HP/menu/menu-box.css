@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+.comm-box-content{
+    width:40vw;
+    text-align: center;
+}
+
+.price{
+    text-align: right;
+}
+
+.menu-image img{
+    object-fit: cover;
+    width:30vw;
+    height:25vw;
+    padding:1vw 5vw;
+    margin:0;
+}
+.menu-image{
+    border-radius: 1rem;
+    padding:0;
+    margin:0;
+}
+
+.comm-box-middle{
+    display: flex;
+}
+.comm-box-title{
+    font-family: 'M PLUS 2', sans-serif;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Yusei Magic', sans-serif;
+}
