@@ -81,7 +81,7 @@ p {
     width:0;
     height:0;
     }
-    .headerb {
+.headerb {
 
 
     margin: 0px 0px 0px 0px;
@@ -89,6 +89,13 @@ p {
     height: 300px;
     width: 1200px;
 }
+
+.comm-box-content{
+    width:40vw;
+    text-align:center;
+}
+
+
 
 .main-logo h1{
     margin:0;
