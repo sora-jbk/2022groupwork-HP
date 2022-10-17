@@ -1,7 +1,22 @@
 @charset "utf-8";
 
+
+
 .comm-box-out{
     border-radius:10px;
     border:solid;
+    width:80vw;
+    margin:1rem 10vw;
+    text-align: center;
+    border-width:0.25rem;
+}
 
+.comm-box-title{
+    border-bottom:dashed;
+    border-width: 0.15rem;
+    font-size:2rem;
+}
+
+.comm-box-content{
+    width:40vw;
 }

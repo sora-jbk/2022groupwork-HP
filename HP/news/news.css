@@ -92,10 +92,7 @@ li {
     height: auto;
 }
 
-.main-art{
-    display: flex;
-    font-family: 'Kaisei Opti', serif;
-}
+
 body{
     background-color: rgb(222, 231, 235);
 }
@@ -231,6 +228,11 @@ img{
     color: rgb(229, 22, 22);
 }
 */
+
+article{
+    margin-top:5rem;
+}
+
 footer{
     background-color: #444444;
     height:10vh;
