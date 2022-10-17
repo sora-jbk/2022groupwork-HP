@@ -14,4 +14,9 @@
 .comm-box-title{
     border-bottom:dashed;
     border-width: 0.15rem;
+    font-size:2rem;
+}
+
+.comm-box-content{
+    width:40vw;
 }
