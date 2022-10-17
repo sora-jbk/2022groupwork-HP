@@ -4,3 +4,7 @@ p,h1,h2,h3{
     font-family: 'Mochiy Pop P One', sans-serif;
     font-family: 'Yusei Magic', sans-serif;
 }
+
+body{
+    background-color: rgb(222, 231, 235);
+}
