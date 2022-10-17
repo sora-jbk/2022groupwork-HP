@@ -112,30 +112,21 @@ img{
 
 
 
-
+/* 
 .boder{
-
-
-
-   /* padding-top: 2vw;*/
     font-size:1.5rem;
     text-align:center;
     margin: 2em auto;
     padding: 1em;
-    width: 50%; /* ボックス幅 */
-    background-color: #94dada; /* ボックス背景色 */
-    color: rgb(0, 0, 0); /* 文章色 */
-    box-shadow: 0 0 5px 1px #c0c0c0; /* 影 */
-    border-radius: 10px; /* 角の丸み */
+    width: 50%;
+    background-color: #94dada;
+    color: rgb(0, 0, 0);
+    box-shadow: 0 0 5px 1px #c0c0c0;
+    border-radius: 10px;
+} */
 
 
-
-
-   
-}
-
-
-
+/*
 .boder2{
 
     padding-top: 2vw;
@@ -143,11 +134,11 @@ img{
     text-align:center;
     margin: 2em auto;
     padding: 1em;
-    width: 50%; /* ボックス幅 */
-    background-color: #94dada; /* ボックス背景色 */
-    color: rgb(0, 0, 0); /* 文章色 */
-    box-shadow: 0 0 5px 1px #c0c0c0; /* 影 */
-    border-radius: 10px; /* 角の丸み */
+    width: 50%;
+    background-color: #94dada; 
+    color: rgb(0, 0, 0);
+    box-shadow: 0 0 5px 1px #c0c0c0;
+    border-radius: 10px;
 }
 
 .boder3{
@@ -157,11 +148,11 @@ img{
     text-align:center;
     margin: 2em auto;
     padding: 1em;
-    width: 50%; /* ボックス幅 */
-    background-color: #94dada; /* ボックス背景色 */
-    color: rgb(0, 0, 0); /* 文章色 */
-    box-shadow: 0 0 5px 1px #c0c0c0; /* 影 */
-    border-radius: 10px; /* 角の丸み */
+    width: 50%; 
+    background-color: #94dada; 
+    color: rgb(0, 0, 0);
+    box-shadow: 0 0 5px 1px #c0c0c0;
+    border-radius: 10px;
 }
 
 
@@ -173,13 +164,14 @@ img{
     text-align:center;
     margin: 2em auto;
     padding: 1em;
-    width: 50%; /* ボックス幅 */
-    background-color: #94dada; /* ボックス背景色 */
-    color: rgb(0, 0, 0); /* 文章色 */
-    box-shadow: 0 0 5px 1px #c0c0c0; /* 影 */
-    border-radius: 10px; /* 角の丸み */
+    width: 50%; 
+    background-color: #94dada;
+    color: rgb(0, 0, 0); 
+    box-shadow: 0 0 5px 1px #c0c0c0;
+    border-radius: 10px;
 }
 
+/*
 .subtitle{
     text-align:center;
     font-size:1.5rem;
@@ -238,7 +230,7 @@ img{
     font-weight: 40%;
     color: rgb(229, 22, 22);
 }
-
+*/
 footer{
     background-color: #444444;
     height:10vh;
