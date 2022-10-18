@@ -5,20 +5,26 @@
 }
 
 .name-box{
-    border: 3px solid #4a4a4a;
-    border-radius: 4px;
+    border: 1px solid #4a4a4a;
+    border-radius: 0px;
     width: 40vw;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(221, 214, 204);
 }
 .contact-box{
-    border: 3px solid #4a4a4a;
-    border-radius: 4px;
+    border: 1px solid #4a4a4a;
+    border-radius: 0px;
     width: 80vw;
     height: 20vw;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(233, 233, 233);
 }
 .sbmitbutton{
-    background-color: rgb(205, 205, 205);
+    background-color: rgb(224, 224, 224);
+    height:2em;
+    padding-top: 0.25em;
+    width:4rem;
+    text-align: center;
+    border-radius:2rem;
+    border:solid 1.5px;
 }
 .main{
     margin-left: 10vw;
