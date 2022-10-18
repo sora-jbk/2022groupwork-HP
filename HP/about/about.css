@@ -131,10 +131,14 @@ h2{
     width: 80vw;
 }
 
-footer{
-    background-color: #444444;
-    height:10vh;
+.backcolor{ 
+    background-color: #cbb8a1; 
+    border-radius: 20vw;
+    width: 85vw;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
+
   
   
   
