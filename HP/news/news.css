@@ -1,4 +1,4 @@
-/*---‹¤’Ê•”•ª---*/
+/*---ï¿½ï¿½ï¿½Ê•ï¿½ï¿½ï¿½---*/
 @charset "utf-8";
 html{
     margin:0;
@@ -38,14 +38,8 @@ header{
     background-size:100%;
     background-position: left ;
 }
-.main-logo{
-    text-align: center;
-    text-decoration: none;
-}
-.main-logo a{
-    color: rgb(7, 9, 77);
-    text-decoration: none;
-}
+
+
 body{
     margin:0;
 }
@@ -69,9 +63,7 @@ li {
     width: 20rem;
     font-family: 'Hachi Maru Pop', cursive;
 }
-.main-logo{
-    font-family: 'Hachi Maru Pop', cursive;
-}
+
 
 
 .main-nav-content{
@@ -84,7 +76,7 @@ li {
 }
 
 
-/*---“ÆŽ©•”•ª---*/
+/*---ï¿½ÆŽï¿½ï¿½ï¿½ï¿½ï¿½---*/
 
 
 .pizza-image{
@@ -228,6 +220,18 @@ img{
 
 article{
     margin-top:5rem;
+}
+
+.comm-box-title h1{
+    font-size:2rem ;
+}
+
+.comm-box-out{
+    text-align: center;
+}
+
+.comm-box-content{
+    margin:2vw 5vw;
 }
 
 footer{
