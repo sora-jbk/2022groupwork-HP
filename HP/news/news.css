@@ -232,10 +232,25 @@ article{
 
 .comm-box-content{
     margin:2vw 5vw;
+    width:70;
 }
 
 .button{
     text-decoration: none;
+}
+
+.topic-img{
+    width:30vw;
+    margin:auto;
+    text-align: center;
+}
+.topic-img img{
+    border-radius: 10%;
+    text-align: center;
+}
+
+.box-in{
+    display: flex;
 }
 
 footer{
