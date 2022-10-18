@@ -32,6 +32,23 @@
     font-family: 'Yusei Magic', sans-serif;
 }
 
+.product-price{
+    text-align: right;
+    width:40vw;
+}
+
+.product-name{
+    margin:0 auto;
+    border-bottom:solid;
+    border-color: #9e9e9e;
+}
+
+.product{
+    width:40vw;
+    text-align: center;
+}
+
+
 footer{
     background-color: #444444;
     height:10vh;
