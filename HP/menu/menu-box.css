@@ -10,6 +10,7 @@
 }
 
 .menu-image img{
+    border-radius: 2rem;
     object-fit: cover;
     width:30vw;
     height:25vw;

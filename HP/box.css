@@ -8,6 +8,7 @@
     width:80vw;
     margin:1rem 10vw;
     border-width:0.25rem;
+    background-color: #b3aea6;
 }
 
 .comm-box-title{
@@ -16,6 +17,8 @@
     border-width: 0.15rem;
     font-size:2.5rem;
     font-weight: 500;
+    background-color: rgb(144, 162, 162);
+    border-radius:10px 10px 0 0; 
 }
 
 .comm-box-content{
